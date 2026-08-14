@@ -1,0 +1,15 @@
+body {
+  background-color: rgb(45, 223, 193);
+  color: rgb(7, 99, 3);
+  font-size: 20px;
+}
+h1 {
+  color: blue;
+}
+h2 {
+  color: red;
+}
+
+h3 {
+  color: yellow;
+}
